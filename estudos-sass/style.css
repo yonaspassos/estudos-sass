@@ -1,0 +1,27 @@
+body {
+  margin: auto;
+  max-width: 1024px;
+  background: #F7F7F9;
+}
+
+section {
+  text-align: center;
+}
+
+button.primary {
+  padding: 15px 30px;
+  border-radius: 15px;
+  border: none;
+  margin: 50px auto;
+  background: #009900;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.8em;
+  line-height: 18px;
+}
+button.primary:hover {
+  background: #0BB10B;
+  cursor: pointer;
+}
